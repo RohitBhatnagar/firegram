@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can view this app on netlify using the url https://firegram-0810.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
